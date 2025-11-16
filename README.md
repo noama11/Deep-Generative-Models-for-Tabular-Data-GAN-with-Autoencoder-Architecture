@@ -1,0 +1,1 @@
+# Deep-Generative-Models-for-Tabular-Data-GAN-with-Autoencoder-Architecture
